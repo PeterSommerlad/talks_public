@@ -68,4 +68,5 @@ Release
 *.maf
 *.mtc
 *.mtc0
-
+# MacOS
+.DS_Store
