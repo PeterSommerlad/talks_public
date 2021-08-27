@@ -1,9 +1,9 @@
 #include "bounded_buffer_content_suite_no_default.h"
 #include "cute.h"
 #include "BoundedBuffer.h"
+#include "n_times.h"
 #include <stdexcept>
 #include <vector>
-#include "n_times.h"
 
 using namespace cpp_advanced::times_literal;
 

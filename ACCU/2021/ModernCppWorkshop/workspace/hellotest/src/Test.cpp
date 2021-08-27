@@ -6,7 +6,7 @@
 
 #include <sstream>
 
-void thisIsATest() {
+void createDefaultCounterIsZero() {
 	std::ostringstream out{};
 	sayhello(out);
 	ASSERT_EQUAL("Hello World\n",out.str());
@@ -15,7 +15,7 @@ void thisIsATest() {
 bool runAllTests(int argc, char const *argv[]) {
 	cute::suite s { };
 	//TODO add your test here
-	s.push_back(CUTE(thisIsATest));
+	s.push_back(CUTE(createDefaultCounterIsZero));
 	cute::xml_file_opener xmlfile(argc, argv);
 	cute::xml_listener<cute::ide_listener<>> lis(xmlfile.out);
 	auto runner = cute::makeRunner(lis, argc, argv);
