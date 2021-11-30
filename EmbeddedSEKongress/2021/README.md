@@ -3,4 +3,4 @@
 Slides for download:
 
 * Talk: [MISRA-C++ 202x](MISRA-SafeC++2021.pdf)
-* Workshop: Modern C++ Design
+* Workshop: [Modern C++ Design](ModernC++Design.pdf) (updated 2021-11-30)
