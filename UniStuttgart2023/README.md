@@ -17,15 +17,15 @@ Software".
 
 * https://github.com/PeterSommerlad/PSsst
 * Simplest Strong Typing (C++now 2021): https://youtu.be/ABkxMSbejZI
-* Slides: https://github.com/PeterSommerlad/talks_public/raw/master/C%2B%2Bnow/2021/SimplerStrongTypes-handout.pdf
+* Slides: https://github.com/PeterSommerlad/talks_public/raw/main/C%2B%2Bnow/2021/SimplerStrongTypes-handout.pdf
 
 ### Safe Integers
 
 * https://github.com/PeterSommerlad/PSsimplesafeint
 * Simplest Safe Integers: (C++now 2021) https://youtu.be/Z0X_TFCcTXA
-* Slides: https://github.com/PeterSommerlad/talks_public/raw/master/C%2B%2Bnow/2021/SimplestSafeIntegers.pdf
+* Slides: https://github.com/PeterSommerlad/talks_public/raw/main/C%2B%2Bnow/2021/SimplestSafeIntegers.pdf
 
 ### On Class Design
 
 * What classes we design and how: (ACCU 2022) https://youtu.be/LDiLF33j8UA
-* Slides: https://github.com/PeterSommerlad/talks_public/raw/master/ACCU/2022/WhatClassesWeDesignAndHow.pdf
+* Slides: https://github.com/PeterSommerlad/talks_public/raw/main/ACCU/2022/WhatClassesWeDesignAndHow.pdf
