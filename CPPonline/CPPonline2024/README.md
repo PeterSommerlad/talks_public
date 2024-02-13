@@ -10,6 +10,8 @@ ISO SC22 WG23 working group collects common language vulnerabilities and provide
 
 This talk will give an overview of typical vulnerabilities and will demonstrate examples on how C++ maps to those generic vulnerabilities and how the upcoming standard 24772-10 provides advice for mitigation.
 
+<hr/>
+
 # Workshop: Safer C++ with MISRA-C++:2023
 
 Handout for my workshop at [C++Online](https://cpponline.uk/) 2024 will be here.
@@ -29,16 +31,16 @@ Using dedicated libraries can help with sidestepping some of the vulnerability p
 
 This workshop will show you where to look for pitfalls, as well as highlight specific ones and provides concrete design guidance and some libraries to use for your own C++ design and code to follow, so that your code becomes safer and less risky.
 
-Outline
+### Outline
 
-    Properties of Safe and Secure Code
-    Origins and Evolution of Guidelines
-    From "Dos and Don'ts" to Design
-    Conscious Class Design
-    Value Values
-    Flavors of Manager Types
-    Strong Types (optional)
-    Integer types without UB and overhead (optional)
-    Understand Relationship Risks
-    Putting Plain Pointers away
-    AMA (ask me anything)
+*  Properties of Safe and Secure Code
+*  Origins and Evolution of Guidelines
+*  From "Dos and Don'ts" to Design
+*  Conscious Class Design
+*  Value Values
+*  Flavors of Manager Types
+*  Strong Types (optional)
+*  Integer types without UB and overhead (optional)
+*  Understand Relationship Risks
+*  Putting Plain Pointers away
+*  AMA (ask me anything)
