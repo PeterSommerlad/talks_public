@@ -1,6 +1,6 @@
 # Talk: Vulnerable C++
 
-Slides/Handout for my talk at [C++Online](https://cpponline.uk/) 2024 are here.
+Slides/Handout for my talk at [C++Online](https://cpponline.uk/) 2024 are [here](TalkVulnerableCpp_cpponline2024.pdf).
 
 ## Abstract
 
