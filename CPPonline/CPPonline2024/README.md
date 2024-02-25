@@ -14,7 +14,7 @@ This talk will give an overview of typical vulnerabilities and will demonstrate 
 
 # Workshop: Safer C++ with MISRA-C++:2023
 
-Handout for my workshop at [C++Online](https://cpponline.uk/) 2024 will be here.
+Handout for my workshop at [C++Online](https://cpponline.uk/) 2024 will be [here](WorkshopSaferCppWithMISRA.pdf).
 
 
 ## Abstract
