@@ -1,6 +1,6 @@
 # ACCU 2024 
 
-## Workshop: "Resilient C++ - Mitigate C++ Vulnerabilities" [slides](ResilienntCpp.pdf)
+## Workshop: "Resilient C++ - Mitigate C++ Vulnerabilities" [slides](https://github.com/PeterSommerlad/talks_public/blob/main/ACCU/2024/WorkshopResilientCpp.pdf)
 
 Safer C++ through guidelines, idioms and libraries
 
