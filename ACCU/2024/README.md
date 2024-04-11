@@ -20,7 +20,7 @@ Outline
 
 
 
-## Talk: Safer C++ with MISRA-C++:2023
+## Talk: Safer C++ with MISRA-C++:2023 [slides](https://github.com/PeterSommerlad/talks_public/blob/main/ACCU/2024/MISRACppTalk.pdf)
 
 
 MISRA guidelines and corresponding static analysis tooling exist to foster programming practices that are considered important for safety-critical systems, especially in the automotive industry.
