@@ -11,7 +11,9 @@ This talk will give an overview of why and what MISRA-C++:2023 attempts to achie
 
 Some seemingly surprising guidelines are shown and explained, why such "unachievalbe" guidelines exist and the rationale behind those guidelines that one seemingly must violate.
 
-# Workshop: Contemporary Design for Safer C++
+# Workshop: [Contemporary Design for Safer C++](https://github.com/PeterSommerlad/talks_public/tree/main/usingstdcpp/2024/)
+
+
 
 C++ programmers suffer from the language's complexity as well as from its "super power" of backward compatibility that manifests known and sometimes lesser known deficiencies in language and standard library design.
 
