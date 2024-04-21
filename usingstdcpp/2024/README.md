@@ -11,7 +11,7 @@ This talk will give an overview of why and what MISRA-C++:2023 attempts to achie
 
 Some seemingly surprising guidelines are shown and explained, why such "unachievalbe" guidelines exist and the rationale behind those guidelines that one seemingly must violate.
 
-# Workshop: [Contemporary Design for Safer C++]([https://github.com/PeterSommerlad/talks_public/tree/main/usingstdcpp/2024](https://github.com/PeterSommerlad/talks_public/blob/main/usingstdcpp/2024/Workshop_Contemporary%20Design%20for%20Safer%20C%2B%2B.pdf)/)
+# Workshop: [Contemporary Design for Safer C++](https://github.com/PeterSommerlad/talks_public/blob/main/usingstdcpp/2024/Workshop_Contemporary%20Design%20for%20Safer%20C%2B%2B.pdf)
 
 
 
