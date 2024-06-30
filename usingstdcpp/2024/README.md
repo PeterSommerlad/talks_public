@@ -21,6 +21,8 @@ This tutorial will show you where to look for pitfalls, as well as highlight spe
 
 # Keynote: [The new MISRA-C++:2023 Safety Guidelines](https://github.com/PeterSommerlad/talks_public/blob/main/usingstdcpp/2024/Keynote_MISRA-C%2B%2B%202023.pdf)
 
+[video](https://www.youtube.com/watch?v=v8JmiIdi1wg)
+
 MISRA guidelines and corresponding static analysis tooling exist to foster programming practices that are considered important for safety-critical systems, especially in the automotive industry.
 In application areas where human live or capital is at risk, safe and secure code is a must, but even in other domains the internal quality of C++ programs is an important factor for programmers' effectiveness. Adhering to MISRA-C++ can help to achieve better internal quality, reducing the risk of undefined behavior and portability issues through implementation-defined behavior.
 
