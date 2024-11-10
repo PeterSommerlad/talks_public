@@ -8,3 +8,4 @@ While it is easy to keep on ranting like an grumpy old man, I hope to encourage 
 While the newest C++ feature or library might look intriguing to try, think first, if your code will be getting simpler when you apply it. Also if you try, be humble enough to acknowledge failure and remove what didn't work, or what you learned to make your code simpler: remember Kevlin Henney and me: "Less Code == More Software"
 
 
+#[Slides](Collective Amnesia.pdf)
