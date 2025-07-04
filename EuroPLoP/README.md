@@ -1,0 +1,1 @@
+Slides from my talk at EuroPLoP 2025 on 30 years of "Pattern-oriented Software Architecture - A System of Patterns"
