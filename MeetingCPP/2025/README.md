@@ -10,3 +10,19 @@ However, the power of C++ and new standard library features will allow us to imp
 
 Note: this talk will not include approaches for unlimited precision arithmetic that might be required for some domains.
 
+----
+
+Please refer to the following repositories for the mentioned (single header each) libraries:
+
+### Modulo Arithmetic
+
+[PSsMOIN](https://github.com/PeterSommerlad/PSsMOIN)
+
+### Overflow Detection
+
+[PSsODIN](https://github.com/PeterSommerlad/PSsODIN)
+
+### Saturation Arithmetic
+
+[PSsSATIN](https://github.com/PeterSommerlad/PSsSATIN)
+
