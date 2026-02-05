@@ -8,9 +8,7 @@ Target audience: Developers
 
 Prerequisites: Basic knowledge in C or C++, For advanced examples some more C++ is helpful but not essential
 
-Additional Information for the Program Team: Integers seem almost natural to a person with some math background. Unfortunately, the range where usual arithmetic operations in a programming language is safe is surprisingly small. This talk will show how small that range can actually be, e.g., for integer multiplication.
-Presented before: focussed on C++ only, this talk was submitted to MeetingC++ and ESE Kongress
- 
+Integers seem almost natural to a person with some math background. Unfortunately, the range where usual arithmetic operations in a programming language is safe is surprisingly small. This talk will show how small that range can actually be, e.g., for integer multiplication. 
  
 ### Short Abstract
 
