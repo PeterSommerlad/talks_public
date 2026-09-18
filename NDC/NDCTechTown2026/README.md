@@ -1,6 +1,6 @@
 ## Slides for my NDC Techtown 2026 talk
 
-[Slides](https:./NDC/NDCTechtown2026/)
+[Slides](https:./NDC/NDCTechtown2026/intnotsafe.pdf)
 
 
 # int != safe && int != ℤ
